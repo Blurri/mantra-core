@@ -1,10 +1,10 @@
 {
-  "name": "mantra-core",
+  "name": "manul-mantra-core",
   "version": "1.7.0",
-  "description": "Core API for Mantra",
+  "description": "fork of mantra mantra-core -- Core API for Mantra",
   "repository": {
     "type": "git",
-    "url": "https://github.com/mantrajs/mantra-core.git"
+    "url": "https://github.com/Blurri/manul-react-simple-di.git"
   },
   "license": "MIT",
   "options": {
