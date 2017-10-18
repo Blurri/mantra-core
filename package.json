@@ -1,6 +1,6 @@
 {
   "name": "manul-mantra-core",
-  "version": "1.7.4",
+  "version": "1.7.5",
   "description": "fork of mantra mantra-core -- Core API for Mantra",
   "repository": {
     "type": "git",
